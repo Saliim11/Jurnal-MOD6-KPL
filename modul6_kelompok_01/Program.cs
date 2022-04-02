@@ -21,6 +21,9 @@ namespace modul6_kelompok_01
             //Aliim
             DataMahasiswa1302200119.ReadJson();
 
+            //Aliim-2
+            TeamMembers1302200119.ReadJSON();
+
         }
     }
 }
