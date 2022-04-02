@@ -10,6 +10,8 @@ namespace modul6_kelompok_01
     {
         static void Main(string[] args)
         {
+            GlossaryItem_1302204092 obj3 = new GlossaryItem_1302204092();
+            obj3.ReadJSON();
         }
     }
 }
