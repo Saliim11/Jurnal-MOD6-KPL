@@ -15,13 +15,15 @@ namespace modul6_kelompok_01
             string jsonString = File.ReadAllText("A://Aliim/Semester 4/Konstruksi Perangkat Lunak/Minggu 6/praktikum/modul6_kelompok_01/modul6_kelompok_01/jurnal6_2_1302200119.json");
             dynamic data = JsonConvert.DeserializeObject(jsonString);
 
+            Console.WriteLine("TeamMembers1302200119 member list:");
             foreach (var member in data.members)
             {
-                Console.WriteLine("First Name\t: " + member.firstName);
+                Console.WriteLine(member.nim + " " + member.firstName + " " + member.lastName + " (" + member.age + " " + member.gender + ")\n");
+                /*Console.WriteLine("First Name\t: " + member.firstName);
                 Console.WriteLine("Last Name\t: " + member.lastName);
                 Console.WriteLine("Gender\t\t: " + member.gender);
                 Console.WriteLine("Age\t\t: " + member.age);
-                Console.WriteLine("NIM\t\t: " + member.nim+"\n");
+                Console.WriteLine("NIM\t\t: " + member.nim + "\n");*/
             }
         }
     }
