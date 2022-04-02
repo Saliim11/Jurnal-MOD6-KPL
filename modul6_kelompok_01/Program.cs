@@ -10,8 +10,8 @@ namespace modul6_kelompok_01
     {
         static void Main(string[] args)
         {
-            //Aliim
-            DataMahasiswa1302200119.ReadJson();
+            //RAFI ALIF AKBAR
+            DataMahasiswa1302204116.ReadJson();
         }
     }
 }
