@@ -10,6 +10,9 @@ namespace modul6_kelompok_01
     {
         static void Main(string[] args)
         {
+            //mamangjimjim-2
+            TeamMembers_1302204092 obj2 = new TeamMembers_1302204092();
+            obj2.ReadJSON();
         }
     }
 }

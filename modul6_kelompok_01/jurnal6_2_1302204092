@@ -1,0 +1,39 @@
+{
+    "members": [
+        {
+            "firstName": "Firman Panji ",
+            "lastName": "Utama",
+            "gender": "male",
+            "age": 20,
+            "nim": "1302200089"
+        },
+        {
+            "firstName": "Muhammad Qalbun Saliim ",
+            "lastName": "Bakhri",
+            "gender": "male",
+            "age": 19,
+            "nim": "1302200119"
+        },
+        {
+            "firstName": "Rizky ",
+            "lastName": "Ramdhan Nugraha",
+            "gender": "male",
+            "age": 20,
+            "nim": "1302203122"
+        },
+        {
+            "firstName": "Raden Rafi ",
+            "lastName": "Alif Akbar",
+            "gender": "male",
+            "age": 19,
+            "nim": "1302204116"
+        },
+        {
+            "firstName": "Muhammad ",
+            "lastName": "Hazim Abubakar",
+            "gender": "male",
+            "age": 20,
+            "nim": "1302204092"
+        }
+    ]
+}
