@@ -10,9 +10,14 @@ namespace modul6_kelompok_01
     {
         static void Main(string[] args)
         {
+
             //mamangjimjim1
             DataMahasiswa_1302204092 obj1 = new DataMahasiswa_1302204092();
             obj1.ReadJSON();
+
+            //Aliim
+            DataMahasiswa1302200119.ReadJson();
+
         }
     }
 }
