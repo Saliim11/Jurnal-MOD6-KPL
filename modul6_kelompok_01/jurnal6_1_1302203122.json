@@ -1,0 +1,15 @@
+{
+   "firstName": "Rizky",
+   "lastName": "Ramdhan",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Kenangan",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI200", "name": "Ilmu Hitam" }
+   ]
+}

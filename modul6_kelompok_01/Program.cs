@@ -10,6 +10,7 @@ namespace modul6_kelompok_01
     {
         static void Main(string[] args)
         {
+            DataMahasiswa1302203122.readJson();
         }
     }
 }
