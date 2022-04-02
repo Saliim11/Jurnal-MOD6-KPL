@@ -10,6 +10,8 @@ namespace modul6_kelompok_01
     {
         static void Main(string[] args)
         {
+            //panji3
+            GlossaryItem1302200089.ReadJSON();
         }
     }
 }
