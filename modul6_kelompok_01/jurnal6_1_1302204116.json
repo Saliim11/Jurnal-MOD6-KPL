@@ -1,0 +1,21 @@
+{
+  "firstName": "Raden Rafi",
+  "lastName": "Alif",
+  "gender": "male",
+  "age": 17,
+  "address": {
+    "streetAddress": "Komp.bumi harapan",
+    "city": "Kota Bandung",
+    "state": "Bandung"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2C4",
+      "name": "KPL"
+    }
+  ]
+}
